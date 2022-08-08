@@ -1,0 +1,1272 @@
+ nargesadhami#aol.com send message to access the files replace # with @
+1
+Drivers
+Driver Easy Professional 5.7.0.39448
+Driver Fusion Premium 1.7.0.0
+Driver Talent Pro 8.0.4.14
+DriverMax Pro 12.15.0.15
+IObit Driver Booster Pro 9.0.1.104
+System Info & Benchmarks
+Abelssoft FolderVisualizer 7.2
+AIDA64 Business 6.50.5800
+CPUID CPU-Z 1.98.0
+CPUID HWMonitor Pro 1.46.0 (64-bit)
+Flexense SysGauge Ultimate 8.1.12 (32-bit)
+Flexense SysGauge Ultimate 8.1.12 (64-bit)
+FolderSizes Enterprise 9.3.357
+Fresh Diagnose 8.67
+FSPro Labs Event Log Explorer 4.5.2.2051
+HWiNFO 7.14.4610
+Intel Processor Identification Utility 6.7.21
+Opti Drive Control 1.70
+PassMark BurnInTest Pro 9.2.1009 (64-bit)
+PassMark MonitorTest 4.0.1000
+PassMark PerformanceTest 10.1.1003
+Primate Labs Geekbench Pro 5.4.1 (64-bit)
+SpeedFan 4.52
+TechPowerUp GPU-Z 2.43.0
+System Security
+Abelssoft AntiBrowserSpy 2021 4.09.28655
+Abelssoft AntiLogger 2022 6.0.32073
+Abelssoft AntiRansomware 2021 21.94.29212
+Abelssoft BankingBrowser 2022 4.0.31447
+Abelssoft CryptBox 2022 10.0.31226
+Abelssoft FileWing Shredder Pro 5.14
+Abelssoft GClean 2022 222.02.32401
+Abelssoft HackCheck 2022 4.0.32940
+Abelssoft Win10 PrivacyFix 2021 3.03.20
+Active KillDisk Ultimate 14.0.21
+AgileBits 1Password 7.3.712
+AI RoboForm Enterprise 7.9.32.2
+CoffeeCup LockBox 5.0.111
+Efficient Password Manager Network 5.60.559
+Folder Guard 21.4 (32-bit)
+Folder Guard 21.4 (64-bit)
+FSPro Labs Hide Folders 5.5.1.1161
+GiliSoft File Lock Pro 12.2.0
+GiliSoft Privacy Protector 8.0.0
+KeePass Password Safe 2.49
+Kristanix Soft Password Generator Pro 5.54
+LastPass Password Manager 4.84.0
+Master Voyager Business 3.24
+NewSoftwares Copy Protect 2.0.6
+NewSoftwares Folder Lock 7.8.5
+NewSoftwares Folder Protect 2.1.0
+Password Depot 15.1.7 (32-bit)
+Password Depot 15.2.1 (64-bit)
+Security Administrator 14.0
+Shadow Defender 1.5.0.726 (32-bit)
+Shadow Defender 1.5.0.726 (64-bit)
+VeraCrypt 1.24.23.0
+WinPatrol PLUS 35.5.2017.8
+System Tools
+Abelssoft MyKeyFinder Plus 2022 11.04.32418
+Almeza MultiSet Professional 8.7.8
+Ashampoo Core Tuner 2.01
+Auto Power-on & Shut-down 2.84
+Camera Mouse 2018 1.1
+CopyFilenames 3.4
+Easy Macro Recorder 4.9
+EasyBCD Community 2.4.0.237
+Funduc Replace Studio Pro 7.17 (32-bit)
+Funduc Replace Studio Pro 9.5 (64-bit)
+GiliSoft RAMDisk 7.1.0
+Hasleo EasyUEFI Enterprise 4.6.2.2 (64-bit)
+IDM UltraCompare Pro 22.00.0.8 (32-bit)
+IDM UltraCompare Pro 22.00.0.8 (64-bit)
+IDM UltraFinder 20.10.0.40 (32-bit)
+IDM UltraFinder 20.10.0.40 (64-bit)
+Intelligent Shutdown 3.3.3
+Launchy 2.6
+MenuMaid 1.3
+O&O ShutUp10 1.8.1423
+PC Auto Shutdown 7.2
+Re-Enable 2.0
+ReviverSoft Battery Optimizer 3.2.2.4
+Softvoile Clipdiary 5.60
+StopUpdates10 3.6.2021.705
+StrokesPlus.net 0.5.5.0
+SysTracer Pro 2.10.0.109 (32-bit)
+SysTracer Pro 2.10.0.109 (64-bit)
+Unlocker 1.9.2
+WHDownloader 0.0.2.3
+System Tweaker
+Abelssoft PC Fresh 2021 7.01.26
+Abelssoft Registry Cleaner 2022 7.00
+Abelssoft StartupStar 2022 14.0.29189
+Ace Utilities 6.6.0.301 (64-bit)
+Ashampoo WinOptimizer 19.00.13
+AVS Registry Cleaner 4.1.7.293
+Bitsum Process Lasso Pro 10.2.0.40
+CFi ShellToys 7.4.0 (32-bit)
+CFi ShellToys 7.4.0 (64-bit)
+Glary Utilities Pro 5.175.0.203
+IObit Advanced SystemCare Pro 15.0.1.125
+jv16 PowerTools 7.0.0.1274
+MacPaw CleanMyPC 1.12.0.2113
+Norton Utilities Premium 17.0.8.60
+Outertech Cacheman 10.70.0.4
+RAM Saver Professional 21.7
+WinSecret 4.2.7
+WinTools.net Premium 21.8
+Yamicsoft Windows 10 Manager 3.5.6 (32-bit)
+Yamicsoft Windows 10 Manager 3.5.6 (64-bit)
+Yamicsoft Windows 11 Manager 1.0.1 (64-bit)
+Yamicsoft Windows 7 Manager 5.2.0 (32-bit)
+Yamicsoft Windows 7 Manager 5.2.0 (64-bit)
+USB Tools
+GiliSoft USB Stick Encryption 10.0.0
+Hasleo WinToUSB Technician 6.2.2.0 (32-bit)
+Hasleo WinToUSB Technician 6.2.2.0 (64-bit)
+ISO to USB 1.6
+NewSoftwares USB Secure 2.2.1
+Novicorp WinToFlash Professional 1.13.0000
+Pendrivelinux Universal USB Installer 2.0.0.7
+Pendrivelinux YUMI 2.0.9.1
+Rufus 3.17.1846.0
+UNetbootin 7.0.2
+USB Disk Security 6.9.0.0
+USB Safely Remove 6.4.2.1297
+Windows 7 USB  Download Tool 1.0.30
+Zentimo xStorage Manager 2.4.2.1284
+ZOTAC WinUSB Maker 1.1
+Windows 11
+Windows 11 Home - Version 21H1 UEFI Support (64-bit)
+Windows 11 Pro Eductaion - Version 21H2 UEFI Support (64-bit)
+Windows 11 Pro for Workstation - Version 21H2 UEFI Support (64-bit)
+Windows 11 Pro - Version 21H2 UEFI Support (64-bit)
+Windows 11 Education - Version 21H2 UEFI Support (64-bit)
+Windows 11 Enterprise - Version 21H2 UEFI Support (64-bit)
+nargesadhami#aol.com send message to access the files replace # with @
+ 2
+Antivirus & Security Suites
+Kaspersky Security Cloud Free 21.3.10.391
+Microsoft Security Essentials 4.10.0209 (32-bit)
+Microsoft Security Essentials 4.10.0209 (64-bit)
+Symantec Endpoint Protection 14.3.5413.3000
+Audio Tools
+Abelssoft mp3 cutter Pro 8.1
+Abelssoft MusicExtractor 3.1
+Abelssoft Tagman 2022 8.0
+Abyssmedia Audio Converter Plus 6.6.0.0
+Abyssmedia AudioRetoucher 5.3.0.0
+Acoustica Pianissimo 1.012
+Adrosoft AD Sound Recorder 5.7.6
+Adrosoft AD Stream Recorder 5.0.0
+Ashampoo Music Studio 8.0.7.5
+Atomix VirtualDJ Pro Infinity 8.5.6613 (64-bit)
+Audacity 3.1.1 (32-bit)
+Audacity 3.1.1 (64-bit)
+Audio Extractor Platinum 2.3.7
+Audio Record Wizard 7.21
+AudioMulch 2.2.4
+AVS Audio Converter 10.1.1.622
+AVS Audio Editor 10.1.1.558
+AVS Ringtone Maker 1.6.1.140
+Balabolka 2.15.0.798
+Bigasoft Audio Converter 5.5.0.7676
+ChordPulse 2.6
+Cockos REAPER 6.41
+ Audio Extractor 8.2.0
+EZ CD Audio Converter 9.5.1.1 (32-bit)
+EZ CD Audio Converter 9.5.1.1 (64-bit)
+FxSound Pro 1.1.9.0 (32-bit)
+FxSound Pro 1.1.9.0 (64-bit)
+GoldWave 6.55 (64-bit)
+Image-Line FL Studio 20.8.3.2304
+Karaoke Sound Tools 2.0.3
+MAGIX Sound Forge Pro Suite 15.0 (64-bit)
+Maize Sampler Editor 2.40
+Mp3tag 3.11
+NextUp TextAloud 4.0.63
+Snooper Professional 3.3.3
+Songtrix Gold 3.0.3a
+TagScanner 6.1.10 (32-bit)
+TagScanner 6.1.10 (64-bit)
+Text to Speech Maker 2.6.0
+Total Recorder Developer 8.6.7190
+Volume2 1.1.7.433
+Xilisoft Audio Converter Pro 6.5.1
+YoGen Vocal Remover 3.3.10
+Windows 10
+Windows 10 Home - Version 21H2 UEFI Support (64-bit)
+Windows 10 Pro Eductaion - Version 21H2 UEFI Support (64-bit)
+Windows 10 Pro for Workstation - Version 21H2 UEFI Support (64-bit)
+Windows 10 Pro - Version 21H2 UEFI Support (64-bit)
+Windows 10 Education - Version 21H2 UEFI Support (64-bit)
+Windows 10 Enterprise - Version 21H2 UEFI Support (64-bit)
+nargesadhami#aol.com send message to access the files replace # with @
+ 3
+Desktop Enhancements
+Actual Multiple Monitors 8.14.6.1
+Actual Window Manager 8.14.6.1
+Aida Organizer 1.6
+Binary Fortress DisplayFusion Pro 9.8.0.0
+Classic Shell 4.3.1
+Crave World Clock 1.6.4.4
+DeskSoft EarthTime 6.14.1
+DeskSoft EarthView 6.14.1
+DeskSoft WindowManager 9.0.2
+DeskSpace 1.5.8.9
+Desktop Icon Toy 5.0 (32-bit)
+Desktop Icon Toy 5.0 (64-bit)
+Dexclock 1.3.39
+Dexpot Pro 1.6.14.2439
+Efficient Sticky Notes Pro Network 5.60.559
+f.lux 4.120.0.0
+FileMenu Tools 7.8.4.0
+FolderHighlight 2.8.1
+Lovely Folders 4.3.0.887
+Stardock Fences 3.0.9.11 (64-bit)
+Stardock ModernMix 1.12
+Stardock Multiplicity 3.44.00090
+Stardock Start10 1.97
+Stardock Start8 1.56
+Start Menu X Pro 7.3.1
+Teorex FolderIco 6.2.1
+Wallpaper Slideshow Pro 3.1.3
+Weather Clock 4.5
+XWidget Pro 1.9.22.1117
+Graphic Tools
+3D Thumbnail Generator 1.0
+Abelssoft HappyCard 4.0.20
+Advanced Batch Converter 8.0
+Ambient Design ArtRage 6.1.2
+Aurora 3D Barcode Generator 6.0109
+Aurora 3D DesignBox 2.01.07
+Aurora 3D Text & Logo Maker 20.01.30
+AVS Image Converter 5.3.1.310
+Barcode Studio Enterprise 15.1.3.19677
+Blumentals Easy GIF Animator Pro 7.3.0.61
+Corel Painter 2022 22.0.0.164 (64-bit)
+CorelDRAW Graphics Suite 2021 23.5 (64-bit)
+CutMaster 2D Professional 1.5.0.0
+EximiousSoft Banner Maker Pro 3.75
+EximiousSoft Business Card Designer Pro 3.75
+EximiousSoft GIF Creator 7.38
+EximiousSoft Logo Designer Pro 3.75
+FaceGen Modeller 3.5.3
+FantaMorph Deluxe 5.4.8
+FotoSketcher 3.80 (32-bit)
+FotoSketcher 3.80 (64-bit)
+Freehand MX 11.0.2
+GIF to Flash Converter 4.0
+iColorPicker 6.21
+Insofta 3D Text Commander 6.0.0
+Insofta Cover Commander 7.0.0
+KazQR Professional 2.04
+Make The Cut! 4.6.2
+Mojosoft BusinessCards MX 5.00
+MotionArtist 1.2.1.12720
+Paint.NET 4.3.2 (32-bit)
+Paint.NET 4.3.2 (64-bit)
+PanoramaStudio Pro 3.5.8.331
+Pixarra TwistedBrush Pro Studio 25.04
+RonyaSoft Poster Printer 3.2.21
+Sothink Logo Maker Professional 4.4.4625
+Stepok Recomposit Pro 6.5.0.1
+TBS Cover Editor 2.6.5327.1622
+TechnoRiverStudio Professional 8.0.1711
+The Foundry Mischief 2.1.6
+Tint Guide Beauty Guide 2.2.8
+Tint Guide Makeup Guide 2.2.8
+Tint Guide Picture Cutout Guide 3.2.11
+True BoxShot 2.1.1.56
+Universal Viewer Pro 6.7.8.0
+Xara Designer Pro+ 21.5.0.62826 (64-bit)
+XnView 2.50.2
+Mobile Phone Tools
+Abelssoft Send2Phone 2021 4.0.1
+DigiDNA iMazing 2.12.3.0
+EaseUS MobiSaver for Android 5.0
+FonePaw Android Data Recovery 3.9.0
+iDevice Manager Pro 10.7.0.0
+iMobie AnyDroid 7.5.0
+iMobie AnyTrans for iOS 8.9.2 (64-bit)
+ImTOO iPhone Transfer Platinum 5.7.34
+Macroplant iExplorer 4.4.2.31474
+MyPhoneExplorer 1.8.15
+NirSoft BluetoothView 1.66
+Samsung Kies 3.2.16084.2
+SHAREit 4.0.6.177
+Softorino WALTR Pro 1.0.62.0 (64-bit)
+Sony Xperia Companion 2.11.6.0
+Wondershare MobileTrans 8.1.0.640
+Wondershare SafeEraser 4.9.9.14
+Xilisoft iPad Magic Platinum 5.7.34
+Xilisoft iPhone Magic Platinum 5.7.34
+Xilisoft iPod Magic Platinum 5.7.34
+Zapya PC 2.8.0.2
+Windows 10
+Windows 10 Home - Version 21H2 UEFI Support (32-bit)
+Windows 10 Pro Eductaion - Version 21H2 UEFI Support (32-bit)
+Windows 10 Pro for Workstation - Version 21H2 UEFI Support (32-bit)
+Windows 10 Pro - Version 21H2 UEFI Support (32-bit)
+Windows 10 Education - Version 21H2 UEFI Support (32-bit)
+Windows 10 Enterprise - Version 21H2 UEFI Support (32-bit)
+nargesadhami#aol.com send message to access the files replace # with @
+ 4
+Album & Slide Show
+3D Flash Gallery 2.4.0.0
+Ashampoo Slideshow Studio HD 4.0.9.3
+Kvisoft FlipBook Maker Enterprise 4.3.4
+Movavi Slideshow Maker 8.0.0
+Photodex ProShow Producer 9.0.0.3797
+Wedding Album Maker Gold 3.53
+WnSoft PTE AV Studio Pro 10.5.3.1 (64-bit)
+Wondershare  Slideshow Builder 6.7.2.0
+XFlip Enterprise 2.0.5
+Remote Utilities
+AnyDesk 7.0.4
+DameWare Remote Support 12.2.0.1206
+Devolutions Remote Desktop Manager 2021.1
+EduIQ Classroom Spy Professional 4.7.13
+EduIQ Net Monitor for Employees Pro 5.7.15
+RemotelyAnywhere 11.0.2673
+TeamViewer 15.20.6.0
+VNC Connect 6.7.4
+Windows 7
+Windows 7 SP1 Starter (32-bit) - Updated
+Windows 7 SP1 Home Basic (32-bit)|(64-bit) - Updated
+Windows 7 SP1 Home Premium (32-bit)|(64-bit) - Updated
+Windows 7 SP1 Professional (32-bit)|(64-bit) - Updated
+Windows 7 SP1 Ultimate (32-bit)|(64-bit) - Updated
+nargesadhami#aol.com send message to access the files replace # with @
+ 5
+Backup & Recovery
+Abelssoft EasyBackup 2022 12.01.33184
+Abelssoft SyncManager 2021 20.04.25
+Abelssoft Undeleter 6.03.41
+Acronis True Image 2021 25.8.1.39216 (64-bit)
+Active Disk Image Professional 11.0.0 (64-bit)
+Active File Recovery Ultimate 21.0.2 (64-bit)
+Active Partition Recovery Ultimate 21.0 (64-bit)
+Active UNDELETE Ultimate 18.0.09
+Active UNERASER Ultimate 16.0.2
+Active Unformat Professional 10.0.1
+Advanced EFS Data Recovery Professional 4.50
+Auslogics File Recovery Professional 10.2.0.0
+CardRecovery 6.30.0216
+Comfy File Recovery 6.0
+Comfy Partition Recovery 4.0
+Comfy Photo Recovery 5.8
+Drive SnapShot 1.49.0.18953
+EaseUS Data Recovery Wizard Technician 14.4
+FarStone DriveClone Server 11.10.20150827
+FileRestore for Networks 4.2.1
+Flexense Sync Breeze Ultimate 13.7.26 (32-bit)
+Flexense Sync Breeze Ultimate 13.7.26 (64-bit)
+Hasleo Data Recovery Technician 5.8.2 (64-bit)
+iCare Data Recovery Pro 8.3.0.0
+KLS Backup Professional 11.0.0.2 (32-bit)
+KLS Backup Professional 11.0.0.2 (64-bit)
+MiniTool Power Data Recovery Business 10.1
+O&O DiskImage Server 17.0.421 (32-bit)
+O&O DiskImage Server 17.0.421 (64-bit)
+O&O DiskRecovery Technician 14.1.145 (32-bit)
+O&O DiskRecovery Technician 14.1.145 (64-bit)
+Ontrack EasyRecovery Technician 15.0 (64-bit)
+Password Recovery Bundle Enterprise 5.2
+Piriform Recuva Technician 1.53.1087
+Runtime Soft Raid Reconstructor 5.00
+Stellar Phoenix Mailbox Exchange Recovery 8.0
+Stellar Phoenix Zip Repair 3.0.0.0
+Stellar Photo Recovery Premium 10.0.0.3
+Stellar Repair for Access 6.0.0.0
+Stellar Repair for Excel 6.0.0.1
+Stellar Repair for MS SQL Technician 9.0.0.1
+Stellar Repair for PDF 3.0.0.0
+Stellar Repair for Photo 8.2.0.0
+Stellar Repair for PowerPoint 4.0.0.0
+Stellar Repair for Video Professional 5.0.0.2
+Stellar Repair for Word 6.0.0.0
+Stellar Toolkit for Data Recovery 10.1 (64-bit)
+Syncovery Premium 9.39m.272 (32-bit)
+Syncovery Premium 9.39m.272 (64-bit)
+USB Image Tool 1.8.1.0
+Wondershare Photo Recovery 3.1.1
+Wondershare Recoverit Ultimate 8.1.0 (64-bit)
+Xeroweight Flashback 2.0.0.703
+Zero Assumption Recovery Technician 10.2080
+CD &  Tools
+Any  Cloner Platinum 1.3.7
+Any  Shrink 1.4.4
+AnyToISO Pro 3.9.6.670
+Ashampoo Burning Studio 22.0.8.34
+AVS Disc Creator 6.2.4.564
+BurnAware Professional 14.8 (32-bit)
+BurnAware Professional 14.8 (64-bit)
+CyberLink Power2Go Platinum 13.0.2024.0
+EasyBoot 6.6.0.800
+Elby CloneBD 1.2.9.0 (32-bit)
+Elby CloneBD 1.2.9.0 (64-bit)
+Elby Clone 2.9.3.6
+gBurner 5.0 (32-bit)
+gBurner 5.0 (64-bit)
+HandBrake 1.4.2 (64-bit)
+ISO Workshop Professional 10.6 (32-bit)
+ISO Workshop Professional 10.6 (64-bit)
+IsoBuster Pro 4.7.0.0
+Magic ISO Maker 5.5.0281
+Nero Platinum Suite 2021 23.0.1000
+PowerISO 8.0
+RedFox CloneCD 5.3.4.0
+RedFox Clone mobile 1.9.5.0
+RonyaSoft CD  Label Maker 3.2.23
+SlySoft Game Jackal Pro 5.2.0.0
+UltraISO Premium 9.7.6.3829
+VSO ConvertXto 7.0.0.69
+Wondershare  Creator 6.5.5.195
+Xilisoft Blu-ray Creator 2.0.4.20170209
+Xilisoft Blu-ray Ripper SE 7.1.1.20170209
+Xilisoft  Creator 7.1.3.20170209
+Xilisoft  Ripper Ultimate SE 7.8.24
+Windows Server
+Windows Server 2022 Datacenter (64-bit)
+Windows Server 2022 Standard (64-bit)
+nargesadhami#aol.com send message to access the files replace # with @
+ 6
+Audio & Video Players
+AIMP 5.00.2335.0
+Any FLV Player Pro 2.5.1
+Apple iTunes 12.12.2.2 (32-bit)
+Apple iTunes 12.12.2.2 (64-bit)
+BS.Player Pro 2.76.1090
+Cowon jetAudio Plus 8.1.8.20800
+Cowon jetVideo VX 8.1.0.200
+CyberLink Power Ultra 21.0.2019 (64-bit)
+GOM Player Plus 2.3.69.5333
+KMPlayer 2021.10.26.03 (64-bit)
+KMPlayer 4.2.2.58 (32-bit)
+Macgo Windows Blu-ray Player 2.17.4.3899
+Mirillis Splash 2.7.0.0
+SPlayer 4.9.4 (64-bit)
+VLC media player 3.0.16 (32-bit)
+VLC media player 3.0.16 (64-bit)
+Winamp Pro 5.666.3516
+Zoom Player MAX 16.5.0.1650
+Autorun & Setup Creators
+Abyssmedia MSI to EXE Compiler 1.2.0.5
+Enigma Virtual Box 9.70
+Indigo Rose AutoPlay Media Studio 8.5.2.0
+Indigo Rose Setup Factory 9.5.2.0 (64-bit)
+Inno Setup Compiler 6.2.0
+Multimedia Builder 4.9.8.13
+QSetup Installation Suite Pro 12.0.0.5
+Smart Install Maker 5.04
+Tarma InstallMate Builder 9.100.2.7902
+Turbo Studio 21.9.1572.0
+Document Tools
+Abelssoft CleverPrint 8.1.25
+ASCII Art Maker 1.72
+Aurora 3D Presentation 20.01.30
+AVS Document Converter 4.2.6.271
+DeskSoft ScrollNavigator 5.13.8
+Efficient Notes Network 5.60.559
+FinePrint 11.00
+Form Pilot Office 2.78.3
+Gillmeister Batch Text Replacer 2.13.6
+Just Great Software AceText 3.2.0
+Just Great Software PowerGREP 4.7.0
+LeoMoon ParsiNegar 2.1.7
+Notepad++ 8.1.9 (32-bit)
+Notepad++ 8.1.9 (64-bit)
+priPrinter Server 6.6.0.2501
+Softany WinCHM Pro 5.45
+SoftPerfect Print Inspector 7.0.10
+Softvoile Flashnote 4.8
+STDU Viewer 1.6.375
+WinMerge 2.16.16.0 (32-bit)
+WinMerge 2.16.16.0 (64-bit)
+Writer's Cafe 2.44.0
+Download Managers
+4K Video Downloader 4.17.2.4460
+Ashampoo ClipFinder HD 2.52
+Free Download Manager 6.15.3.4236 (32-bit)
+Free Download Manager 6.15.3.4236 (64-bit)
+Internet Download Accelerator Pro 6.21.1.1675
+Net Transport 2.96k.720
+Wondershare AllMyTube 7.4.9.2
+Firewalls
+Firewall App Blocker 1.7
+Privatefirewall 7.0.30.3
+TinyWall 3.2.3
+Windows Firewall Control 6.7.0.0
+FTP Clients
+CoffeeCup Direct FTP 6.9.2015
+Core FTP Pro 2.2.1960 (32-bit)
+Core FTP Pro 2.2.1960 (64-bit)
+FileZilla 3.56.2 (32-bit)
+FileZilla 3.56.2 (64-bit)
+FTPRush 3.4.2
+Globalscape CuteFTP 9.0.5.0007
+IDM UltraFTP 21.10.0.1 (32-bit)
+IDM UltraFTP 21.10.0.1 (64-bit)
+Maxprog FTP Disk 1.4.4 (32-bit)
+Maxprog FTP Disk 1.4.4 (64-bit)
+TurboFTP 6.90.1178 (32-bit)
+TurboFTP 6.90.1178 (64-bit)
+Instant Messaging
+Digsby 30295
+Miranda NG 0.95.13.1 (32-bit)
+Miranda NG 0.95.13.1 (64-bit)
+mIRC 7.66
+Nimbuzz 2.9.5
+PidginIM 2.14.7
+Skype 8.78.0.159
+Softros LAN Messenger 9.1
+Telegram Desktop 3.2.2 (32-bit)
+Telegram Desktop 3.2.2 (64-bit)
+WhatsApp Desktop 2.2142.12.0 (32-bit)
+WhatsApp Desktop 2.2142.12.0 (64-bit)
+Internet Browsers
+Google Chrome 96.0 (32-bit)
+Google Chrome 96.0 (64-bit)
+Microsoft Edge 96.0 (32-bit)
+Microsoft Edge 96.0 (64-bit)
+Mozilla Firefox 94.0 (32-bit)
+Mozilla Firefox 94.0 (64-bit)
+Opera 81.0 (32-bit)
+Opera 81.0 (64-bit)
+Internet Utilities
+Becky! Internet Mail 2.75.04
+Camersoft Webcam Recorder 3.1.08
+Complete Internet Repair 8.2.3.5362
+DeskSoft CheckMail 5.21.8
+DVB Dream 3.7.1
+FeedDemon Pro 4.5.0.0
+FeedReader 3.14
+Firetrust MailWasher Pro 7.12.56
+GMail Drive Shell Extension 1.0.20
+IN MEDIA KG NewsletterDesigner Pro 11.3.8
+Jordysoft Advanced URL Catalog 2.3.9.0
+Jordysoft Internet Cyclone 2.28
+Kristanix Soft Email Sender Deluxe 2.35
+MetaProducts Inquiry Professional 1.14.648
+MetaProducts Offline Explorer Enterprise 8.1
+Mozilla Thunderbird 91.3.1 (32-bit)
+Mozilla Thunderbird 91.3.1 (64-bit)
+Outertech Linkman Pro 8.9.9.11
+RadioGet Ultimate 4.5.4
+RadioSure 2.2.1046.0
+RarmaRadio Pro 2.73.1
+RSS Xpress 2.11.11
+Teleport Pro 1.72
+Transmute Pro 2.70
+Website Ripper Copier 3.9.2
+YoWindow Unlimited 4.110
+PDF Utilities
+Abelssoft Easy PDF 2022 3.0.29311
+Abelssoft PDF Compressor 2.02
+Adobe Acrobat Pro DC 2021.007.20099
+Adobe Acrobat Reader DC 2021.007.20099
+Anvsoft PDFMate PDF Converter Pro 1.89
+A-PDF Batch Print 3.9.0
+A-PDF Content Splitter 4.8.4
+A-PDF Deskew 3.5.4
+A-PDF Image Downsample 3.2.1
+A-PDF Image Extractor 3.2.0
+A-PDF Image to PDF 5.1.6
+A-PDF Manual Split 3.0.1
+A-PDF Merger 4.8.0
+A-PDF Number Pro 3.1.0
+A-PDF Office To PDF 5.4.0 (64-bit)
+A-PDF Office To PDF 5.6.0 (32-bit)
+A-PDF Page Crop 4.7.0
+A-PDF Page Cut 3.5.0
+A-PDF Page Master 3.6.4
+A-PDF Password Security 3.4.3
+A-PDF Password Security Service 3.3.0
+A-PDF Rename 4.0.0
+A-PDF Restrictions Remover 1.7.0
+A-PDF Scan and Split 3.8.0
+A-PDF Scan Optimizer 2.9.2
+A-PDF Size Splitter 1.2.1
+A-PDF Split 3.4.0
+A-PDF Text Replace 3.2.0
+A-PDF To Black-White 3.1.1
+A-PDF To Image 2.6.0
+A-PDF To Video 2.3
+A-PDF Watermark 4.7.6
+CodeIndustry Master PDF Editor 5.7.91
+CopySafe PDF Protector 3.0.2.6
+doPDF 11.3.239
+Foxit PDF Editor Pro 11.0.1.49938
+Nitro Pro 13.47.4.957 (32-bit)
+Nitro Pro 13.47.4.957 (64-bit)
+pdfFactory Pro 8.00
+PdfGrabber Professional 9.0.0.16 (32-bit)
+PdfGrabber Professional 9.0.0.16 (64-bit)
+PDFZilla 3.9.1
+Simpo PDF Converter Ultimate 1.5.3.0
+Simpo PDF Merge and Split 2.2.3.0
+Softany CHM to PDF Converter 3.08
+Sothink PDF to DWG Converter 3.0.45
+Wondershare PDF Converter Pro 5.1.0.126
+Runtime Libraries
+Java SE Development Kit 8u301 (32-bit)
+Java SE Development Kit 8u301 (64-bit)
+Microsoft .NET Framework 4.8.4115.0
+Microsoft .NET Framework 5.0.11 (32-bit)
+Microsoft .NET Framework 5.0.11 (64-bit)
+Microsoft DirectX Runtime 9.29.1974
+Microsoft Visual C++ Redistributable Runtimes
+Bootable
+Acronis True Image 2021
+nargesadhami#aol.com send message to access the files replace # with @
+ 7
+Font Utilities
+English Fonts
+Extensis FontDoctor 10.7.0.0
+Farsi Fonts
+Font Fitting Room Deluxe 3.5.4.0
+FontCreator Pro 14.0.0.2814 (32-bit)
+FontCreator Pro 14.0.0.2814 (64-bit)
+FontLab Fontographer 5.2.3.4868
+X-Fonter 10.0.1
+Microsoft Office
+Extendoffice Office Tab Enterprise 14.0 (32-bit)
+Extendoffice Office Tab Enterprise 14.0 (64-bit)
+Microsoft Office ProPlus 2021 Ver 2110 (32-bit)
+Microsoft Office ProPlus 2021 Ver 2110 (64-bit)
+Microsoft Project Pro 2021 Ver 2110 (32-bit)
+Microsoft Project Pro 2021 Ver 2110 (64-bit)
+Microsoft Visio Pro 2021 Ver 2110 (32-bit)
+Microsoft Visio Pro 2021 Ver 2110 (64-bit)
+Video Converters
+Abelssoft Converter4Video 2022 8.0.30404
+ACDSee Video Converter Pro 5.0.0.799
+Aiseesoft Total Video Converter 9.2.56
+Anvsoft Any Video Converter Ultimate 7.1.0
+AVS Video Converter 12.2.1.684
+Bigasoft Total Video Converter 6.3.0.7676
+E.M. Total Video Converter HD 3.71
+Freemake Video Converter 4.1.13.82
+GiliSoft Video Converter Discovery 11.1.0
+ImTOO Video Converter Ultimate 7.8.25
+Movavi Video Converter Premium 22.0 (32-bit)
+Movavi Video Converter Premium 22.0 (64-bit)
+Watermark Soft Video to Picture Converter 5.3
+WinX HD Video Converter Deluxe 5.16.5.333
+WonderFox HD Video Converter Factory 24.0
+Wondershare UniConverter 13.5.0.108 (64-bit)
+Xilisoft 3D Video Converter 1.1.0.20170209
+Xilisoft Video Converter Ultimate 7.8.25
+Bootable
+Kaspersky Rescue Disk 18.0
+nargesadhami#aol.com send message to access the files replace # with @
+ 8
+Architecture Engineering 1
+Autodesk AutoCAD 2022 (64-bit)
+Codec Packs
+K-Lite Mega Codec Pack 16.5.3
+Shark007 Advanced Codecs 15.3.7.0
+X Codec Pack 2.7.4
+Compression Tools
+7-Zip 21.05 (32-bit)
+7-Zip 21.05 (64-bit)
+Bandizip Enterprise 7.22.0.1 (64-bit)
+GSplit 3.0.1
+HJSplit 3.0
+IZArc 4.4
+PeaZip 8.3.0 (32-bit)
+PeaZip 8.3.0 (64-bit)
+PowerArchiver Toolbox 2021 20.00.62 (64-bit)
+WinArchiver 4.8 (32-bit)
+WinArchiver 4.8 (64-bit)
+WinRAR 6.02 (32-bit)
+WinRAR 6.02 (64-bit)
+WinZip Pro 26.0.14610.0 (32-bit)
+WinZip Pro 26.0.14610.0 (64-bit)
+Icon Utilities
+Aha-Soft ArtCursors 5.30
+Aha-Soft ArtIcons Pro 5.52
+Aha-Soft IconLover 5.48a
+AWicons Pro 10.3
+Axialis IconWorkshop Professional 6.9.1.0
+Greenfish Icon Editor Pro 3.6
+IcoFX Business 3.6.1
+IconCool Studio Pro 8.20.140222
+Icons from File 5.1.1
+Perfect Icon 2.46
+Pichon 9.6.1.0
+Photo Tools
+Abelssoft Photastic 20.0816
+Abelssoft PhotoBoost 20.0819
+ACDSee Photo Studio Ultimate 2022 (64-bit)
+AoaoPhoto Watermark 8.7
+ArcSoft Perfect365 1.8.0.3
+Ashampoo Photo Optimizer 8.2.3.24 (64-bit)
+AVS Photo Editor 3.2.6.170
+BenVista PhotoArtist 2.0.8
+Benvista PhotoZoom Pro 8.1.0
+Bits&Coffee BatchPhoto Enterprise 4.0
+Dynamic Photo HDR 6.1 (32-bit)
+Dynamic Photo HDR 6.1 (64-bit)
+HDRsoft Photomatix Pro 6.3.0
+JPEGmini Pro 3.3.0.0 (64-bit)
+NKRemote 2.6.1
+Photo to Cartoon 7.0.6086.39169
+PhotoFiltre 11.3.0 (64-bit)
+PhotoInstrument 7.6.0.932
+Picasa 3.9.141.259
+PTGui Pro 10.0.11
+Tint Guide Brightness Guide 2.4.4
+Tint Guide Cosmetic Guide 2.2.8
+Tint Guide Image Resize Guide 2.2.9
+Tint Guide Pet Eye Fix Guide 2.2.8
+Tint Guide Photo Montage Guide 2.2.11
+Video Tools
+Abelssoft MovieCut 2020 6.0
+Abelssoft VideoCompressor 4.1
+ACDSee Video Studio 4.0.0.933 (64-bit)
+Aoao Video Watermark Pro 5.3.0.0
+AVS Video Editor 9.5.1.383
+AVS Video ReMaker 6.5.1.254
+Boilsoft Video Joiner 9.1.7 (64-bit)
+Boilsoft Video Splitter 8.3.0 (64-bit)
+Corel VideoStudio Ultimate 2021 24.0.1 (64-bit)
+GiliSoft Video Editor Pro 14.2.0
+Grass Valley EDIUS Pro 8.53.2808 (64-bit)
+Mocha Pro 2022 9.0.0.241 (64-bit)
+Movavi Video Suite 22.0.0 (32-bit)
+Movavi Video Suite 22.0.0 (64-bit)
+NCH Debut Professional 7.65
+Outerspace BluffTitler Ultimate 15.5.0 (64-bit)
+proDAD Mercalli SAL+ 5.0.461.3 (64-bit)
+proDAD ProDRENALIN 2.0.29.8 (64-bit)
+proDAD ReSpeedr Plus 1.0.45.2 (64-bit)
+proDAD VitaScene 4.0.293 (64-bit)
+Wondershare Filmora 10.1.20.15 (64-bit)
+Bootable
+Active@ Boot Disk 17.0
+nargesadhami#aol.com send message to access the files replace # with @
+ 9
+Architecture Engineering 2
+Autodesk Revit 2022 (64-bit)
+Chief Architect Premier X13 23.2.0.55 (64-bit)
+HomePlanSoft Home Plan Pro 5.8.2.1
+Room Arranger 9.6.1.624 (32-bit)
+Room Arranger 9.6.1.624 (64-bit)
+Astronomy
+Asynx Planetarium 2.80
+Celestia 1.6.2.2
+Earth Alerts 2020.1.122
+Google Earth Pro 7.3.4.8248 (32-bit)
+Google Earth Pro 7.3.4.8248 (64-bit)
+Microsoft WorldWide Telescope 6.0.11.1
+NASA World Wind 1.4.0
+Health & Fitness
+Able Software 3D-DOCTOR 5.0
+BoneLab 2.3.36
+EyePro 3.0
+Eyes Relax 0.87.4548.22214
+Health Monitor 2.2.1.1
+HealthWatch Pro 3.1
+Mirolit Halotea 1.600
+Smart Diary Suite Home 4.8.0.0
+VidaOne Diet and Fitness 3.8.8
+Science & Education
+ChemMaths 17.6
+easyQuizzy 2.0.442
+EduIQ Advanced eLearning Builder 3.6.20
+EndNote 20.2.15709
+Molecule Maker 2.5.1.1
+Multiple Choice Quiz Maker 18.8.0.0
+Polyglot 3000 3.79 (32-bit)
+Polyglot 3000 3.79 (64-bit)
+QTranslate 6.9.0.0
+SnapGene 5.3.1 (64-bit)
+Vocabulary Worksheet Factory Pro 6.1.109.0
+Bootable
+MiniTool Partition Wizard 12.5
+nargesadhami#aol.com send message to access the files replace # with @
+ 10
+Adobe CC Collection 1
+Adobe Animate 2022 22.0.0.93 (64-bit)
+Adobe Bridge 2022 12.0.0.234 (64-bit)
+Adobe Dreamweaver 2021 21.2 (64-bit)
+Adobe Illustrator 2022 26.0.1.731 (64-bit)
+Adobe Photoshop 2022 23.0.2.101 (64-bit)
+Bootable
+QuickTech Pro 5.80
+nargesadhami#aol.com send message to access the files replace # with @
+ 11
+Adobe CC Collection 2
+Adobe After Effects 2022 22.0.1.2 (64-bit)
+Adobe InDesign 2022 17.0.1.105 (64-bit)
+Adobe Lightroom Classic 2022 11.0 (64-bit)
+Adobe Media Encoder 2022 22.0.0.107 (64-bit)
+Adobe Premiere Pro 2022 22.0.0.169 (64-bit)
+File Sharing
+BitTorrentPro 7.10.5.46075
+eMule 0.60c (32-bit)
+eMule 0.60c (64-bit)
+Shareaza 2.7.10.2 (32-bit)
+Shareaza 2.7.10.2 (64-bit)
+uTorrentPro 3.5.5.46096
+Vuze 5.7.6.0 (32-bit)
+Vuze 5.7.6.0 (64-bit)
+Bootable
+PassMark MemTest86 Pro 9.3
+nargesadhami#aol.com send message to access the files replace # with @
+ 12
+3D & Animation 1
+Rhinoceros 7.12.21313.06341 (64-bit)
+SketchUp Pro 2021 21.1.332 (64-bit)
+VRay 5.20.01 for Rhinoceros (64-bit)
+VRay 5.20.01 for SketchUp 2021 (64-bit)
+Adobe Collection 3
+Adobe Audition 2022 22.0.0.96 (64-bit)
+Adobe XD 45.1.62.3 (64-bit)
+Civil Engineering
+CSI BRIDGE Advanced 23.3.1.1784 (64-bit)
+CSI ETABS Ultimate 19.1.0.2420 (64-bit)
+CSI Perform3D 8.0.0.1134 (64-bit)
+CSI SAFE 2020 20.0.0.1701 (64-bit)
+CSI SAP2000 Ultimate 23.3.1.1784 (64-bit)
+CSI XCAD 19.1.0.0148 (64-bit)
+File Managers
+Abelssoft Data2Pocket 2022 4.0.31032
+Abelssoft EverDoc 2022 6.0
+Abelssoft File Organizer 2022 4.0.29671
+Abelssoft FileFusion 2022 5.02.30975
+Abelssoft Find My Files 2022 4.0.28972
+Araxis Merge Professional 2021.5585 (64-bit)
+Attribute Changer 10.10a
+Beyond Compare Pro 4.4.0.25886
+CodeSector Direct Folders Pro 3.8
+Copywhiz 4.0.9 (32-bit)
+Copywhiz 4.0.9 (64-bit)
+EF Commander 21.10 (64-bit)
+Everything 1.4.1.1009 (32-bit)
+Everything 1.4.1.1009 (64-bit)
+Flexense Disk Sorter Ultimate 13.8.12 (32-bit)
+Flexense Disk Sorter Ultimate 13.8.12 (64-bit)
+Flexense DiskBoss Ultimate 12.4.16 (32-bit)
+Flexense DiskBoss Ultimate 12.4.16 (64-bit)
+Flexense Dup Scout Ultimate 13.7.24 (32-bit)
+Flexense Dup Scout Ultimate 13.7.24 (64-bit)
+Flexense VX Search Ultimate 13.7.24 (32-bit)
+Flexense VX Search Ultimate 13.7.24 (64-bit)
+Hashtab Commercial 6.0.0.34
+Listary Pro 5.00.2843
+Magic File Renamer Professional 7.4.0
+Search my Files 13.0.0.0
+WinNc 10.0.0.0 (32-bit)
+WinNc 10.0.0.0 (64-bit)
+XYplorer 22.40.0200
+Hard Disk Utilities
+Abelssoft CheckDrive 2022 4.0
+Abelssoft JetDrive 9.4
+Abelssoft SSD Fresh Plus 2022 11.0.32870
+Active Hard Disk Monitor 5.0.4
+AOMEI Partition Assistant Technician 9.4
+Ariolic Active SMART 2.10.3.170
+Ashampoo HDD Control 3.20.00
+Auslogics Disk Defrag Ultimate 4.12.0.1
+Condusiv Diskeeper Pro 20.0.1300.0 (32-bit)
+Condusiv Diskeeper Pro 20.0.1300.0 (64-bit)
+CrystalDiskInfo 8.12.12
+CrystalDiskMark 8.0.4
+EaseUS Partition Master Unlimited 16.0.0.0
+Flexense Disk Pulse Ultimate 13.8.16 (32-bit)
+Flexense Disk Pulse Ultimate 13.8.16 (64-bit)
+Flexense Disk Savvy Ultimate 13.9.14 (32-bit)
+Flexense Disk Savvy Ultimate 13.9.14 (64-bit)
+Hard Disk Sentinel Pro 5.70.11973
+Hard Drive Inspector for Notebooks 4.35.243
+Hard Drive Inspector Professional 4.35.243
+HD Tune Pro 5.75
+HDD Low Level Format Tool 4.40
+HDDScan 4.1.0.29
+IObit Smart Defrag Pro 7.1.0.71
+Mediafour MacDrive Pro 10.5.7.6 (64-bit)
+MiniTool Partition Wizard Technician 12.5
+O&O Defrag Server 25.1.7305 (64-bit)
+Paragon Hard Disk Manager 17.20.0 (32-bit)
+Paragon Hard Disk Manager 17.20.0 (64-bit)
+Paragon HFS+ for Windows 11.4.0.273
+Passmark DiskCheckup 3.5.1001
+Raxco PerfectDisk Server 14.0.900 (32-bit)
+Raxco PerfectDisk Server 14.0.900 (64-bit)
+Runtime Soft Captain Nemo Pro 7.00
+SSDLife Pro 2.5.82
+SSDLife Ultrabook 2.5.82
+Network Tools
+Advanced Host Monitor Enterprise 11.74
+Advanced IP Scanner 2.5.3850
+Aquila Wake On LAN 2.12.4.0
+Axence netTools 5.0.1.28533
+Bandwidth Monitor 3.4.757
+Bitmeter 3.6.0.18561
+Blumentals Surfblocker 5.12.0.62
+Cisco AnyConnect Secure Mobility 4.9.06037
+Cisco Packet Tracer 8.0.0.0211 (32-bit)
+Cisco Packet Tracer 8.0.0.0212 (64-bit)
+Connection Keeper 19.0
+DNS Jumper 2.2
+DnsEye 1.6.7
+DU Meter 7.30.4769
+EMCO Network Inventory Enterprise 5.8.22
+Hexagon BWMeter 9.0.2
+IPTool 1.0.4.0
+LanHelper 1.99
+LizardSystems Change MAC Address 21.10
+LizardSystems Find MAC Address 21.10
+LizardSystems Network Scanner 21.07
+LizardSystems Wi-Fi Scanner 21.05
+Maxidix WiFi Suite 15.9.2.890
+Mobile Net Switch 5.20
+NetLimiter Pro 4.1.12.0
+NetSetMan Pro 5.0.6
+NetTraffic 1.66.2
+NirSoft FastResolver 1.26
+NirSoft IPNetInfo 1.95
+NirSoft Wireless Network Watcher 2.26
+Nsasoft Network Bandwidth Monitor 1.6.8.0
+Nsasoft Network Security Auditor 3.2.3.0
+Nsasoft NetworkSleuth 3.0.0.0
+Nsasoft ShareAlarmPro 2.1.4.0
+PassMark WirelessMon Professional 4.0.0.1009
+SoftPerfect Bandwidth Manager 3.2.11
+SoftPerfect Connection Emulator Pro 1.8.0
+SoftPerfect LAN Search Pro 9.1.1
+SoftPerfect Network Scanner 8.1.1 (64-bit)
+SoftPerfect NetWorx 6.2.10
+SoftPerfect Switch Port Mapper 3.1.3
+SoftPerfect WiFi Guard 2.1.4
+SystemTools Hyena 14.2.0 (32-bit)
+SystemTools Hyena 14.2.0 (64-bit)
+TamoSoft SmartWhois 5.1.291
+Telerik Fiddler Web Debugger 5.0.20204
+Who Is On My Wifi 4.0.5
+Wireshark 3.4.9 (32-bit)
+Wireshark 3.4.9 (64-bit)
+OCR & Scan Tools
+ABBYY FineReader PDF 15.0.114.4683
+Readiris Corporate 17.4.126.0
+ScanAndSave 2.00.0147
+Scanitto Pro 3.19
+VueScan Professional 9.7.67
+Bootable
+PCUnlocker Enterprise 5.6
+nargesadhami#aol.com send message to access the files replace # with @
+ 13
+3D & Animation 2
+3D Object Converter 6.506
+Agisoft Metashape Pro 1.7.5.13100 (64-bit)
+Ambiera CopperCube Pro 6.4.0 (64-bit)
+Aurora 3D Animation Maker 20.01.30
+Autodesk 3ds Max 2022.1 (64-bit)
+Enscape 3D 3.2.0.62705 (64-bit)
+JewelCAD Pro 2.2.3
+Terragen Professional 4.5.56.0 (64-bit)
+Toon Boom Studio 8.1.19172
+VRay 5.20.01 for 3ds Max 2022 (64-bt)
+Bootable
+MiniTool Power Data Recovery 10.0
+nargesadhami#aol.com send message to access the files replace # with @
+ 14
+Organizer Tools
+ABIX 7.40.01
+Adobe Digital Editions 4.5.11.187303
+Athan (Azan) Pro 4.5
+Chaos Intellect 10.3.0.6
+Collection Studio 4.75
+CSoftlabs C-Organizer Professional 8.0.0.1
+Efficient Address Book Network 5.60.559
+Efficient Calendar Network 5.60.559
+Efficient Diary Pro Network 5.60.559
+Efficient Lady's Organizer Network 5.60.559
+Efficient Man's Organizer Network 5.60.559
+Efficient Reminder Network 5.60.559
+Efficient To-Do List Network 5.60.559
+EfficientPIM Network 5.60.559
+Helium Premium 15.1.17827.0
+ManicTime Professional 4.5.12.0
+Multi Timer 6.8.4
+ResumeBuilder Pro 4.8
+Salaat Time 3.0
+School Calendar 4.4
+Schoolhouse Test Professional 5.2.167.0
+SunCalendar 7.5.8.0
+TarikhDaar 4.0
+TaskMerlin Professional 5.2.0.1
+The Complete Genealogy 2018.210702
+TreeDBNotes Pro 4.50.05
+VueMinder Ultimate 2020.03
+WinCatalog 2020.8.0.1101
+Programming
+Abyssmedia Quick Batch File Compiler 5.0.8.0
+Abyssmedia ScriptCryptor Compiler 4.3.0.1
+Apache NetBeans IDE 12.5 (64-bit)
+Bitsum PECompact 3.03.23
+Blumentals Rapid PHP 16.3.0.231
+DJ JAVA Decompiler 3.12.12.101
+DzSoft Perl Editor 5.8.9.8
+DzSoft PHP Editor 4.2.7.8
+Emurasoft EmEditor Professional 21.1.4
+ES-Computing EditPlus 5.5.3601.0 (32-bit)
+ES-Computing EditPlus 5.5.3601.0 (64-bit)
+e-World Tech ASP.NET Maker 2020.0.9
+e-World Tech ASPMaker 2018.0.5
+e-World Tech PHPMaker 2022.3.0
+ExamDiff Pro Master 12.0.1.8 (32-bit)
+ExamDiff Pro Master 12.0.1.8 (64-bit)
+GUI Design Studio Professional 5.1.167.0
+HippoEDIT 1.61.61 (64-bit)
+IDM UltraEdit 28.20.0.44 (32-bit)
+IDM UltraEdit 28.20.0.44 (64-bit)
+Illumination Software Creator 6.0.0
+JCreator Pro 5.00.016
+JetBrains IntelliJ IDEA Ultimate 2021.2 (64-bit)
+JetBrains PhpStorm 2021.2 (64-bit)
+JetBrains PyCharm Professional 2021.2 (64-bit)
+JetBrains WebStorm 2021.2 (64-bit)
+Microsoft Visual Studio 2022 Enterprise 17.0
+NeoBook Professional 5.8.7
+phpDesigner 8.1.2
+Python 3.10.0 (32-bit)
+Python 3.10.0 (64-bit)
+SharpDevelop 5.1.0.5216
+Sublime Text 4.0.0.4113 (64-bit)
+SweetScape 010 Editor 12.0.1 (32-bit)
+SweetScape 010 Editor 12.0.1 (64-bit)
+X-Ways WinHex 20.2
+Bootable
+Paragon Hard Disk Manager 17.2
+nargesadhami#aol.com send message to access the files replace # with @
+ 15
+Cleanup Tools
+Abelssoft ToolbarTerminator 2020 7.0
+Abelssoft WashAndGo 26.49
+Ashampoo UnInstaller 11.00.10
+History Sweeper 3.36
+IObit Uninstaller Pro 11.0.1.14
+O&O SafeErase Server 16.5.71 (32-bit)
+O&O SafeErase Server 16.5.71 (64-bit)
+Piriform CCleaner Business 5.84.9126
+Remove Empty Directories 2.2.0.0
+Remove Fake Antivirus 1.99
+Revo Uninstaller Pro 4.5.0
+Smarty Uninstaller 4.10.0.0
+Total Uninstall Professional 7.0.0.600
+Uninstall Tool 3.5.10.5670
+Your Uninstaller! Pro 7.5.2014.03
+Database Utilities
+DatAdmin Ultimate 5.4.2.5
+e-World Tech ASP Report Maker 11.0.0
+e-World Tech ASP.NET Report Maker 12.0.1
+e-World Tech PHP Report Maker 12.0.7
+Microsoft SQL Server Enterprise 2019 (64-bit)
+MS Access To MySQL 5.5.0.282
+PremiumSoft Navicat Premium 15.0.26 (32-bit)
+PremiumSoft Navicat Premium 15.0.26 (64-bit)
+SharpPlus Sqlite Developer 4.2.0.552
+Mathematics
+Algebrator 5.1
+Converber 2.3.1
+DreamCalc Professional 5.0.4
+EasyFit Professional 5.50
+Efofex FX Draw Tools 21.10.21.13
+IBM SPSS Statistics 26.0.0 IF006
+Math Resource Studio Professional 7.0.153.0
+MathMagic Pro for Adobe InDesign 8.7 (64-bit)
+MathType 7.4.8.0
+Minitab 21.1.0.0 (64-bit)
+ProKon 10.0z
+Photoshop Plugins
+AlphaPlugins Digitalizer II 2.2 (64-bit)
+AlphaPlugins Engraver AI 1.0 (64-bit)
+Digital Anarchy Backdrop Designer 1.5 (64-bit)
+Digital Anarchy Beauty Box Photo 4.0.12
+Digital Anarchy Primatte Chromakey 5.1.4
+Digital Anarchy Texture Anarchy 1.2 (64-bit)
+Exposure Soft Blow Up 3.1.4.386 (64-bit)
+Exposure Soft Exposure X7 7.0.0.96 (64-bit)
+Exposure Soft Eye Candy 7.2.3.176 (64-bit)
+Exposure Soft Snap Art 4.1.3.378 (64-bit)
+HyperTyle 2.0 (64-bit)
+iCorrect EditLab Pro 6.0 (64-bit)
+iCorrect Portrait 2.0 (64-bit)
+Imadio Fisheye-Hemi Plug-In 2.1.0 (64-bit)
+Imadio PearlyWhites Plug-In 3.0.2 (64-bit)
+Imadio ShineOff Plug-In 3.0.2 (64-bit)
+Imagenomic Noiseware 5.1.3.5131
+Imagenomic Portraiture 3.5.7.3570
+Imagenomic Realgrain 2.1.2.2125
+Neat Image Pro Plug-In 7.6.0 (64-bit)
+Panorama Corrector 2.6 (64-bit)
+Perfectly Clear 3.12.2.2045 (64-bit)
+Redfield Bundle 2019 for Photoshop (64-bit)
+RepaintMyImage Plug-In 1.1 (64-bit)
+Tintii 2.8.2 (64-bit)
+VitaminBW 2.0.2 (64-bit)
+Screen Capture
+Abelssoft Screenphoto 2021 6.1
+Abelssoft ScreenVideo 2022 5.0.31227
+Ashampoo Snap 12.0.6.0
+BB FlashBack Pro 5.53.0.4690
+Beepa Fraps 3.5.99.15618
+Mirillis Action! 4.22.0.0 (64-bit)
+Movavi Screen Recorder 22.0.0
+Tanida Demo Builder 11.0.29.0
+TechSmith Camtasia 2021.0.12.33438 (64-bit)
+TechSmith Snagit 2021.4.4.12541 (64-bit)
+Wondershare DemoCreator 3.6.0
+Subtitle Tools
+Aegisub 3.2.2 (32-bit)
+Aegisub 3.2.2 (64-bit)
+AHD Subtitles Maker 5.24.7901.42251
+Automatic Subtitle Synchronizer 0.6.1.0
+AVIAddXSubs 9.15
+SubEdit 1.52
+MKVToolNix 63.0.0 (32-bit)
+MKVToolNix 63.0.0 (64-bit)
+Sub2DivX 3.3.2
+Subtitle Edit 3.6.2
+Subtitle Workshop 6.0e.12
+Subtitles Translator 2.0.0.54
+VobSub 2.23
+Xilisoft  Subtitle Ripper 1.1.20.0402
+Web Design
+Agama Web Menus Professional 2.21
+Aleo Flash Intro Banner Maker 4.1
+AllWebMenus Pro 5.3.908
+Axure RP Enterprise 9.0.0.3727
+Blumentals Easy Button & Menu Maker Pro 5.4
+Blumentals HTMLPad 16.3.0.231
+Blumentals Rapid CSS 16.3.0.231
+Blumentals WeBuilder 16.3.0.231
+CoffeeCup Animation Studio 2.3.196
+CoffeeCup Button Builder 1.0.18
+CoffeeCup Flash Firestarter 7.3
+CoffeeCup Flash Menu Builder 3.5
+CoffeeCup Image Mapper 4.2
+CoffeeCup Menu Builder 1.5.56
+CoffeeCup Responsive Layout Maker Pro 1.1.27
+CoffeeCup Shopping Cart Creator Pro 3.9.4355
+CoffeeCup Shopping Cart Designer Pro 3.9.463
+CoffeeCup Sitemapper 6.1.342
+CoffeeCup Visual Site Designer 7.0.26
+CoffeeCup Web Calendar 5.1.20
+CoffeeCup Web Video Player 5.3.1
+CoffeeCup Website Access Manager 5.0.234
+CoffeeCup Website Color Schemer 4.2.130
+CoffeeCup Website Insight 2.1.312
+Dreamingsoft 123 Flash Menu 5.0.5.1974
+ExamXML Pro 5.51.1086 (32-bit)
+ExamXML Pro 5.51.1086 (64-bit)
+Hippo Animator Professional 4.4.5806
+JavaScript Slideshow Maker 3.2
+KoolMoves 9.7.0
+Kristanix Soft Button Shop 4.26
+Moyea SWF to Video Converter Pro 4.2.0.0
+MTop HTML Password Lock 6.0
+Sothink DHTML Menu 9.80.945
+Sothink SWF Decompiler 7.4.5320
+Sothink SWF Easy 6.6.546
+Sothink SWF Quicker 5.5.40821
+SWF Protection 2.6
+WYSIWYG Web Builder 17.0.2 (64-bit)
+XAMPP 8.0.11.2 (64-bit)
+Bootable
+AOMEI Backupper Technician 6.6
+nargesadhami#aol.com send message to access the files replace # with @
+
+ 16
+Electrical Engineering
+Autodesk EAGLE Premium 9.6.2 (64-bit)
+CodeVisionAVR Advanced 3.14
+EZ Schematics Pro 1.3.28
+HDL Works EASE 8.4 R4 (64-bit)
+HDL Works HDL Companion 2.10 R1 (64-bit)
+HDL Works IO Checker 3.3 R4 (64-bit)
+MCS Electronics BASCOM-8051 2.0.16.0
+MCS Electronics BASCOM-AVR 2.0.8.4
+ProfiCAD 11.2.2
+Proteus Professional 8.13.31525 SP0
+Fax & Telephony
+Call Corder 4.0.0.300
+Modem Spy Pro 4.1
+PC 2 Answering Machine Pro 2.1.0.1
+Phoner 3.23
+VentaFax Business 6.8.161.401
+Finances & Business
+AceMoney 4.36.6.0
+Adarian Money 5.3.4344
+Maxprog iCash 7.8.4 (32-bit)
+Maxprog iCash 7.8.4 (64-bit)
+Mindjet MindManager 2022 22.0.271 (64-bit)
+Personal Finances Premium 5.10.0.5129
+Softwarenetz Invoice 9.03
+Parand Learning Products (Demo)
+3ds Max 2020 Demo
+Access 2016 Demo
+Access 2019 Demo
+After Effects CC Demo
+Android Programming Demo
+ASP.NET Demo
+Audition CC Demo
+AutoCAD 2020 Demo
+AutoCAD 3D Demo
+C++ Demo
+Computer Basics Demo
+CorelDRAW Demo
+Dreamweaver CC Demo
+EDIUS Demo
+Excel 2016 Demo
+Excel 2019 Demo
+Flash CS6, CC Demo
+HTML, CSS Demo
+Illustrator CC Demo
+InDesign CC Demo
+Java Demo
+JavaScript Demo
+Joomla Demo
+Lightroom CC Demo
+macOS Demo
+MATLAB 2015 Demo
+Maya 2015 Demo
+MS Project 2019 Demo
+Network+ Demo
+Parand
+Photoshop Demo
+Photoshop Pro Demo
+PHP Demo
+PowerPoint 2016 Demo
+PowerPoint 2019 Demo
+Premiere CC Demo
+Primavera P6 Demo
+Python Demo
+Revit 2020 Demo
+Rhino Demo
+SketchUp Demo
+SolidWorks 2014 Demo
+SQL Server Demo
+Visual C# Demo
+V-Ray Demo
+Windows 10 Demo
+Windows 7 Demo
+Windows 8 Demo
+Word 2016 Demo
+Word 2019 Demo
+WordPress Demo
+Screensaver Makers
+Ace Pro Screensaver Creator 4.12
+Animated Screensaver Maker 4.4.17
+Axialis Screensaver Producer Pro 4.2.0.0
+Blumentals Screensaver Factory 7.6.0.73
+Photo ScreenSaver Maker 4.52
+Virtualization Utilities
+Elby Virtual CloneDrive 5.5.2.0
+Oracle VM VirtualBox 6.1.28.147628 (64-bit)
+VMware Workstation Pro 16.2.1 (64-bit)
+WinCDEmu 4.1
+WinMount 3.4.1020 (64-bit)
+WinMount 3.5.1018 (32-bit)
+Bootable
+Macrium Reflect Server Plus 8.0
+
+nargesadhami#aol.com send message to access the files replace # with @
